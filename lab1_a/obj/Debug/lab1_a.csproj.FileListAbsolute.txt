@@ -1,0 +1,7 @@
+C:\Users\chopper\source\repos\avsp_project\lab1_a\bin\Debug\avsp_project.exe.config
+C:\Users\chopper\source\repos\avsp_project\lab1_a\bin\Debug\avsp_project.exe
+C:\Users\chopper\source\repos\avsp_project\lab1_a\bin\Debug\avsp_project.pdb
+C:\Users\chopper\source\repos\avsp_project\lab1_a\obj\Debug\lab1_a.csprojAssemblyReference.cache
+C:\Users\chopper\source\repos\avsp_project\lab1_a\obj\Debug\lab1_a.csproj.CoreCompileInputs.cache
+C:\Users\chopper\source\repos\avsp_project\lab1_a\obj\Debug\avsp_project.exe
+C:\Users\chopper\source\repos\avsp_project\lab1_a\obj\Debug\avsp_project.pdb
